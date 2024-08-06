@@ -52,3 +52,6 @@ group :development, :test do
   gem "pry-byebug"
   gem "pry-doc"
 end
+gem 'devise'
+gem 'rails-i18n'
+gem 'devise-i18n-views'
